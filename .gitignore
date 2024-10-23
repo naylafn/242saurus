@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Dependencies
 /node_modules
 
@@ -20,6 +21,8 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 =======
+=======
+>>>>>>> 7e6293572b00ef47abe5cfb2c85d7e66c0d29b4b
 # Logs
 logs
 *.log
@@ -150,4 +153,7 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+<<<<<<< HEAD
 >>>>>>> d38446cc0c2749e79d4079ff964d603611d667c9
+=======
+>>>>>>> 7e6293572b00ef47abe5cfb2c85d7e66c0d29b4b

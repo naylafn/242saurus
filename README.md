@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Website
 
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
@@ -43,3 +44,6 @@ If you are using GitHub pages for hosting, this command is a convenient way to b
 =======
 # 242saurus
 >>>>>>> d38446cc0c2749e79d4079ff964d603611d667c9
+=======
+# 242saurus
+>>>>>>> 7e6293572b00ef47abe5cfb2c85d7e66c0d29b4b
